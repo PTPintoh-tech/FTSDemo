@@ -17,10 +17,16 @@ html {
     -webkit-tap-highlight-color: transparent
 }
 
+
 /* Menu section css*/
 
 .section-lg-full {
     padding-top: 66px;
+}
+
+.section-lg-red {
+    padding-top: 200px;
+    padding-bottom: 170px;
 }
 
 .section-min {
@@ -32,7 +38,6 @@ html {
     background-image: url("../Images/bg-pattern.png");
     background-repeat: repeat;
 }
-
 
 .home-alt p {
     color: #fff !important;
